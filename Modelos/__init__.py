@@ -1,1 +1,1 @@
-__all__=['FC_modelo','Camada_binaria']
+__all__=['FC_modelo','camada_binaria']
